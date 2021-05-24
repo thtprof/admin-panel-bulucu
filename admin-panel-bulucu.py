@@ -7,10 +7,10 @@ from tkinter import filedialog
 imza="""
       ##    TurkHackTeam
          ####### #    # #### #  #
-            #    # ## # #### # #               
+            #    # ## # #### # #    HackTeam      
             #    #    # # #  # #        
-    """     #    ###### #  # #  # HackTeam
-                                           Profesör
+    """     #    ###### #  # #  #   Profesör
+                                           
 
 print(imza)
 
